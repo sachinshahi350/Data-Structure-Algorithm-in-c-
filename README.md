@@ -6,4 +6,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0595-big-countries](https://github.com/sachinshahi350/Data-Structure-Algorithm-in-c-/tree/master/0595-big-countries) |
 | [1148-article-views-i](https://github.com/sachinshahi350/Data-Structure-Algorithm-in-c-/tree/master/1148-article-views-i) |
+| [1683-invalid-tweets](https://github.com/sachinshahi350/Data-Structure-Algorithm-in-c-/tree/master/1683-invalid-tweets) |
 <!---LeetCode Topics End-->
